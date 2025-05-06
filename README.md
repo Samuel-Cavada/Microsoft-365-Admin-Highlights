@@ -7,4 +7,4 @@
 # Microsoft-365-Admin-Highlights
 
 
-➜ Managed user access, licensing, and compliance settings in the Microsoft 365 Admin Center to support business operations.
+➜ Managed user access and licensing in the Microsoft 365 Admin Center, including administration of Outlook, Exchange, SharePoint, and OneDrive; assigned and purchased licenses to support operational needs and maintain compliance.
